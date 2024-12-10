@@ -1,5 +1,5 @@
 # Implementation-of-ML-model-for-image-classification
-Implementation-of-ML-model-for-image-classification is a Streamlit app that integrates MobileNetV2 and a CIFAR-10 model for image classification. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
+This project implements an image classification application using Convolutional Neural Networks (CNN) and pretrained MobileNetV2. It is designed to classify images from the CIFAR-10 dataset and provides a user-friendly interface using the Streamlit framework for real-time predictions. It balances high accuracy with computational efficiency.
 
 ## Key Features
 
@@ -14,6 +14,12 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
 - **Educational and Practical Use**:
   - Ideal for learning about deep learning models and their performance.
   - Useful for practical applications where image classification is needed.
+ 
+### Technologies Used
+  - Python
+  - TensorFlow and Keras for deep learning.
+  - Streamlit for creating an interactive web interface.
+  - CIFAR-10 dataset for training and testing.
 
 ## Getting Started
 
@@ -45,5 +51,7 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
   Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.
 
 ### Acknowledgements
-  - Streamlit
-  - TensorFlow
+- TensorFlow and Keras for deep learning frameworks.
+-Streamlit for enabling a user-friendly interface.
+-CIFAR-10 dataset for providing labeled data.
+
