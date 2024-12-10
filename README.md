@@ -32,7 +32,7 @@ This project implements an image classification application using Convolutional 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
+   git clone https://github.com/gagan8605/Techsaksham_Implementation-of-ML-model-for-image-classification.git
    cd Implementation-of-ML-model-for-image-classification
 2. **Create and activate a virtual environment**:
     ```bash
